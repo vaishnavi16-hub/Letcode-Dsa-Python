@@ -15,10 +15,4 @@ As an AIML engineering student, I wanted to strengthen my problem-solving skills
 
 ### 💡 Topics Covered So Far:
 - Arrays & Strings
-- HashMaps & Sets
-- Recursion & Backtracking
-- Linked Lists
-- Binary Trees
-- Sorting & Searching
-- Sliding Window & Two Pointers
-- Dynamic Programming (in progress...)
+
