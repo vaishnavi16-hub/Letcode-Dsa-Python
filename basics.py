@@ -12,8 +12,7 @@
 
 
 
-# SOLUTION:-
-
+# SOLUTION:
 # FOR C++...
 
 #include <iostream>
